@@ -1,4 +1,4 @@
-# Open in searchgpt
+# Open in SearchGPT
 
 
 ## Project Structure

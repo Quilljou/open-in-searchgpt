@@ -3,7 +3,7 @@
 
   "name": "Open in SearchGPT",
   "description": "Add SearchGPT to your context menus.",
-  "version": "1.0",
+  "version": "1.0.1",
 
   "action": {
     "default_icon": "icon.png"
